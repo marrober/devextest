@@ -22,3 +22,5 @@ Red Hat UK DSA Team:
 * Jonny Browning
 * Ally Kouao
 
+include::docs/introduction.adoc[]
+include::docs/prereq.adoc[]
